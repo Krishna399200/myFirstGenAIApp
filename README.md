@@ -1,0 +1,2 @@
+# myFirstGenAIApp
+tweet generator
