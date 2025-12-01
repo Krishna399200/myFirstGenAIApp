@@ -1,4 +1,9 @@
-langchain
-langchain-openai
-streamlit
-streamlit-chat
+streamlit>=1.32.0
+
+# LangChain core + OpenAI integration
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+
+# For Pydantic & typing support used internally
+pydantic>=2.0.0
+pydantic_core>=2.0.0
